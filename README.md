@@ -1,7 +1,7 @@
 Thomson TG585 v7 router administration scripts.
 
 If you still have an old Thomson TG585 v7 router you might
-be intrested in these scripts.
+be intrested in these scripts:
 
 - tg585catlog: cat the log of the router.
 - tg585disablewifi: disable wifi until the next reboot.
