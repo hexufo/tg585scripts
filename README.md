@@ -13,6 +13,9 @@ be intrested in these scripts.
 - tg585logo: print the logo.
 - tg585reboot: reboot the router.
 
+Get the latest versions here:
+https://github.com/hexufo/tg585scripts
+
 WARNING:
 
 THESE SCRIPTS ARE INTENDED FOR ADVANCED USERS AND EDUCATIONAL PURPOSES ONLY!
