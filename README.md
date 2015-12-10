@@ -1,6 +1,9 @@
 Thomson TG585 v7 router administration scripts.
 
-- tg585catlog: cat the log of a Thomson TG585 v7 router.
+If you still have an old Thomson TG585 v7 router you might
+be intrested in these scripts.
+
+- tg585catlog: cat the log of the router.
 - tg585disablewifi: disable wifi until the next reboot.
 - tg585enablewifi: enable wifi until the next reboot.
 - tg585envlist: print the environment variables.
@@ -9,3 +12,8 @@ Thomson TG585 v7 router administration scripts.
 - tg585hostdevices: print all host devices.
 - tg585logo: print the logo.
 - tg585reboot: reboot the router.
+
+WARNING:
+
+THESE SCRIPTS ARE INTENDED FOR ADVANCED USERS AND EDUCATIONAL PURPOSES ONLY!
+DO NOT USE THEM UNLESS YOU KNOW WHAT YOU ARE DOING, YOU MAY DAMAGE YOUR ROOTER.
