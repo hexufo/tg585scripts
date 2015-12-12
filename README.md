@@ -1,5 +1,7 @@
 Thomson TG585 v7 router administration scripts.
 
+tg585scripts v.alpha 2015-12-10 by hexufo.
+
 If you still have an old Thomson TG585 v7 router you might
 be intrested in these scripts:
 
@@ -18,6 +20,9 @@ Telnetlib can be used instead of pexpect.
 
 Get the latest versions here:
 https://github.com/hexufo/tg585scripts
+
+You can find me in various places on the internet:
+hexufo @ {wordpress, twitter, github, gmail}
 
 WARNING:
 
