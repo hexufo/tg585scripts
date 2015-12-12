@@ -13,6 +13,9 @@ be intrested in these scripts:
 - tg585logo: print the logo.
 - tg585reboot: reboot the router.
 
+Pexpect python library is used to connect to the telnet server.
+Telnetlib can be used instead of pexpect.
+
 Get the latest versions here:
 https://github.com/hexufo/tg585scripts
 
