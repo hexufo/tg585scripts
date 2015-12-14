@@ -11,7 +11,7 @@ be intrested in these scripts:
 - tg585envlist: print the environment variables.
 - tg585externalip: print the external ip.
 - tg585flushlog: delete - flush the log.
-- tg585getuserini: get the user.ini
+- tg585getuserini: get the user.ini.
 - tg585hostdevices: print all host devices.
 - tg585logo: print the logo.
 - tg585reboot: reboot the router.
