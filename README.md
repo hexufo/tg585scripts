@@ -22,6 +22,8 @@ Telnetlib can be used instead of pexpect.
 Get the latest versions here:
 https://github.com/hexufo/tg585scripts
 
+Project page on PyPI: https://pypi.python.org/pypi/tg585scripts
+
 You can find me in various places on the internet:
 hexufo @ {wordpress, twitter, github, gmail}
 
