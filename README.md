@@ -13,6 +13,8 @@ be intrested in these scripts:
 - tg585flushlog: delete - flush the log.
 - tg585getuserini: get the user.ini.
 - tg585hostdevices: print all host devices.
+- tg585listassignedservices: list assigned services.
+- tg585listservices: list services.
 - tg585logo: print the logo.
 - tg585reboot: reboot the router.
 - tg585uptime: get the uptime.
