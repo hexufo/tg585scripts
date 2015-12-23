@@ -15,6 +15,7 @@ be intrested in these scripts:
 - tg585hostdevices: print all host devices.
 - tg585logo: print the logo.
 - tg585reboot: reboot the router.
+- tg585uptime: get the uptime.
 
 Pexpect python library is used to connect to the telnet server.
 Telnetlib can be used instead of pexpect.
