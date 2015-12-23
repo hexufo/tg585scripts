@@ -6,6 +6,7 @@ If you still have an old Thomson TG585 v7 router you might
 be intrested in these scripts:
 
 - tg585catlog: cat the log of the router.
+- tg585catlog2html: create a html page with the log.
 - tg585disablewifi: disable wifi until the next reboot.
 - tg585enablewifi: enable wifi until the next reboot.
 - tg585envlist: print the environment variables.
