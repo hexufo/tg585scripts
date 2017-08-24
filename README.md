@@ -19,7 +19,6 @@ be intrested in these scripts:
 - tg585logo: print the logo.
 - tg585reboot: reboot the router.
 - tg585speed: print the downstream and upstream.
-- tg585speedfromlog: print the downstream and upstream from the log.
 - tg585uptime: get the uptime.
 
 Pexpect python library is used to connect to the telnet server.
