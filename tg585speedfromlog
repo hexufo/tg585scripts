@@ -7,9 +7,9 @@ WARNING:
 THIS SCRIPT IS INTENDED FOR ADVANCED USERS AND EDUCATIONAL PURPOSES ONLY!
 DO NOT USE IT UNLESS YOU KNOW WHAT YOU ARE DOING! YOU HAVE BEEN WARNED!
 
-- Tg585speed v.alpha 2017-08-24 by hexufo.
+- Tg585speedfromlog v.alpha 2017-08-24 by hexufo.
 
-Print the downstream and upstream of a Thomson TG585 v7 router.
+Print the downstream and upstream from the log of a Thomson TG585 v7 router.
 
 Get the latest version here:
 https://github.com/hexufo/tg585scripts
